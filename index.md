@@ -10,3 +10,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## To do
+- [X] Wake up
+- [X] Code
+- [X] Eat
+- [] Sleep
+
