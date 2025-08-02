@@ -15,5 +15,6 @@ var myVar = "Hello, world!";
 - [X] Wake up
 - [X] Code
 - [X] Eat
-- [] Sleep
+- [ ] Sleep
+
 
